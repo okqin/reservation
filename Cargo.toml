@@ -4,3 +4,4 @@ members = [
     "reservation",
     "service",
 ]
+resolver = "2"
